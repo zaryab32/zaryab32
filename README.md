@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @zaryab32
+- 👀 I’m interested in Programming Languages c, c++, c# ...
+- 🌱 I’m currently doing my bachelors in Computer Engineering ...
+- 💞️ I have done programming courses like c , c++ , c# at an expert level. I have also done courses of graphics like blender and have done game development on unity etc. 
+  👍  I would love to look forward to you. ...
+  👀 I Have also worked at a Marketing Company name "va8ive digital" as a data entry operator.
+  😊 I Have done courses of microcontrollers like Arduino and have made a finger print door lock project on it.
+- 📫 You can reach me on upwork as my profile link is: https://www.upwork.com/fl/zaryabqazi18 ...
+
+<!---
+zaryab32/zaryab32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
